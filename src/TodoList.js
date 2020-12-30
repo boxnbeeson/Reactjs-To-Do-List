@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import NewTask from './newTask';
 
-export default function TodoList() {
+export default function TodoList({ tasks, toggleTask }) {
     return (
-        <div>
-            Start
-        </div>
+        tasks.map(task => {
+            return <NewTask key={task.id} toggleTask={toggleTask} task={task} />
+        })
     )
 }
