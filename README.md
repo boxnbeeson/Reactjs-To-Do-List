@@ -1,7 +1,7 @@
 # Reactjs To Do List
   A simple to-do list made using Reactjs
   <br>
-  https://github.com/jpbeeson/Reactjs-To-Do-List
+  https://github.com/boxnbeeson/Reactjs-To-Do-List
   ## Table of Contents
   * [Developer's Information](#devInfo)
   * [Credientials](#credientials)
