@@ -12,8 +12,7 @@
   <br>
   Name: Jacob Beeson
   <br>
-  Github Link: <www.github.com/boxnbeeson>
-  <br>
+  [Github]: https://www.github.com/boxnbeeson
   Email: <boxnbeeson@gmail.com>
   ## <a name="credientials"></a>Credientials
   This application was created following Web Dev Simplified's online tutorial. His video tutorial can be found with the following link: https://www.youtube.com/watch?v=hQAHSlTtcmY
