@@ -12,7 +12,7 @@
   <br>
   Name: Jacob Beeson
   <br>
-  [Github Link]<github.com/boxnbeeson>
+  Github Link: <https://www.github.com/boxnbeeson>
   <br>
   Email: <boxnbeeson@gmail.com>
   ## <a name="credientials"></a>Credientials
